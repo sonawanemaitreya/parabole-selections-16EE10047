@@ -1,0 +1,15 @@
+the sentences given in the text files can be distinguised into nouns and verbs. We just have to identify proper model to display correct verb for every noun. Some sentences may also contain noun-verb-noun pattern.
+To create knowledge graphs, we shall be able to identify its components first- capture entities, attributes, and relationships, in which nodes are entities, labelled using attributes and edges between two nodes capture relationship between entities.
+
+For knowledge extraction/graph construction we can use-
+
+1. to identify entities- Named Entity Recognition
+			Entity coreference
+			Entity linking 
+			Entity resolution
+2. to identify attributes- Named Entity Recognition
+				Collective classification
+3. to relate(edges) - relation extarction
+			semantic role labelling
+			link prediction
+
